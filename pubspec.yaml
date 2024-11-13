@@ -1,7 +1,6 @@
 name: get
 description: Open screens/snackbars/dialogs without context, manage states and inject dependencies easily with GetX.
-version: 5.0.0-release-candidate-9.2.1
-homepage: https://github.com/jonataslaw/getx
+version: 6.0.0
 
 environment:
   sdk: ">=3.4.0 <4.0.0"
@@ -15,7 +14,7 @@ dependencies:
   web: ">=0.5.0 <2.0.0"
 
 dev_dependencies:
-  flutter_lints: ^4.0.0
+  flutter_lints: ^5.0.0
   flutter_test:
     sdk: flutter
 
@@ -23,7 +22,7 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
-flutter:
+#flutter:
 
   # To add assets to your package, add an assets section, like this:
   # assets:
